@@ -1,7 +1,6 @@
 # AI-Study-Coach- source reference
 
-
-Source reviewed: [`6b5e6785864d`](https://github.com/noel-ult/AI-Study-Coach-/commit/6b5e6785864d6b0b4aa4dce8fd48e37e49f4c7a2).
+Source reviewed: [`70758a61bc2d`](https://github.com/noel-ult/AI-Study-Coach-/commit/70758a61bc2dfb83714352a8e5a0f92f8edb41de).
 
 This reference records the checked-in source, scripts, configuration names, and route declarations. It is a navigation aid; service availability and successful test execution require separate verification.
 
@@ -124,6 +123,7 @@ Historical plans/reports describe their own revision; use current source when th
 
 - [ARCHITECTURE.md](../ARCHITECTURE.md)
 - [AUTH_SETUP_GUIDE.md](../AUTH_SETUP_GUIDE.md)
+- [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [DATABASE_TABLES_GUIDE.md](../DATABASE_TABLES_GUIDE.md)
 - [ENHANCED_FEATURES_SUMMARY.md](../ENHANCED_FEATURES_SUMMARY.md)
 - [FEATURES_IMPLEMENTED.md](../FEATURES_IMPLEMENTED.md)
@@ -139,6 +139,8 @@ Historical plans/reports describe their own revision; use current source when th
 - [SUPABASE_QUICKSTART.md](../SUPABASE_QUICKSTART.md)
 - [SUPABASE_SETUP.md](../SUPABASE_SETUP.md)
 - [backend/requirements.txt](../backend/requirements.txt)
+- [docs/PROJECT_GUIDE.md](../docs/PROJECT_GUIDE.md)
+- [docs/REFERENCE.md](../docs/REFERENCE.md)
 - [mobile-app/MOBILE_README.md](../mobile-app/MOBILE_README.md)
 - [mobile-app/README.md](../mobile-app/README.md)
 - [mobile-app/assets/README.md](../mobile-app/assets/README.md)
